@@ -5,7 +5,7 @@ Atualmente, sou desenvolvedor web júnior full stack e iniciei meus estudos em *
 Sou uma pessoa que está sempre disposta a **aprender** e a **trazer soluções em vez de problemas**. Tenho um perfil **curioso**, **proativo** e adoro trabalhar em **equipe**, especialmente quando todos estão crescendo juntos!
 
 
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/httpMatheus-deve/httpMatheus-dev/blob/output/github-contribution-grid-snake.gif)
 
 
 
