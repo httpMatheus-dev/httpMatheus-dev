@@ -1,4 +1,4 @@
-## Olá! Eu sou um Desenvolvedor Web Júnior Full Stack 👨‍💻
+## Olá! Eu sou o Matheus Gabriel 👨‍💻
 
 Atualmente, sou desenvolvedor web júnior full stack e iniciei meus estudos em **Engenharia de Software** na faculdade em 2024.
 
