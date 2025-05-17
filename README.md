@@ -5,6 +5,10 @@ Atualmente, sou desenvolvedor web júnior full stack e iniciei meus estudos em *
 Sou uma pessoa que está sempre disposta a **aprender** e a **trazer soluções em vez de problemas**. Tenho um perfil **curioso**, **proativo** e adoro trabalhar em **equipe**, especialmente quando todos estão crescendo juntos!
 
 
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+
+
+
 # Contact me for work or networking at
 
 <a href="https://www.linkedin.com/in/matheus-gabriel-alves-da-silva/">
